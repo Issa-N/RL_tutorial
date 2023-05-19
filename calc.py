@@ -13,4 +13,10 @@ def Clac(inputNumber):
     #calc division
     result_div = inputNumber[0] / inputNumber[1]
 
+    #append result
+    result.append(result_add)
+    result.append(result_sub)
+    result.append(result_mul)
+    result.append(result_div)
+
     return result
