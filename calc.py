@@ -7,4 +7,7 @@ def Clac(inputNumber):
     #calc substraction
     result_sub = inputNumber[0] - inputNumber[1]
 
+    #calc multiplication
+    result_mul = inputNumber[0] * inputNumber[1]
+
     return result
