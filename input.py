@@ -1,6 +1,6 @@
 def Input():
     while -1:
-        inputString = input('Please input two number(Num1 Num2):') 
+        inputString = input('Please enter two numbers.(Num1 Num2):') 
         inputStringSplite = inputString.split(' ')
         inputNumber = []
         for num in inputStringSplite:
