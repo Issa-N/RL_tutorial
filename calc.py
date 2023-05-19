@@ -1,4 +1,4 @@
-def Clac(inputNumber):
+def Calc(inputNumber):
     result = []
 
     #calc addition
