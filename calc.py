@@ -10,4 +10,7 @@ def Clac(inputNumber):
     #calc multiplication
     result_mul = inputNumber[0] * inputNumber[1]
 
+    #calc division
+    result_div = inputNumber[0] / inputNumber[1]
+
     return result
