@@ -1,4 +1,4 @@
-import Input
+import input
 import clac
 
 num=Input()
