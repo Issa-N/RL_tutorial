@@ -1,5 +1,5 @@
 import input
-import clac
+import calc
 
 num=Input()
 ans=Calc(num)
